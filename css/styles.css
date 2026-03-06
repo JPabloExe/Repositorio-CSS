@@ -1,0 +1,19 @@
+body {
+    height: 90vh;
+    background-color: brown;
+    font-family: sans-serif;
+}
+
+body button, a, i {
+    cursor: pointer;
+}
+
+.container {
+    width: 30%;
+    padding: 20px;
+    border: solid black 2px;
+    border-radius: 8px;
+    background-color: antiquewhite;
+    margin: auto;
+    text-align: justify;
+}
