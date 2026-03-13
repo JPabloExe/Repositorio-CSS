@@ -45,4 +45,16 @@ header {
     color: white;
 }
 
+footer a .fb {
+    color: blue;
+}
+
+footer a .wp {
+    color: green;
+}
+
+footer a .ig {
+    color: orange;
+}
+
 
